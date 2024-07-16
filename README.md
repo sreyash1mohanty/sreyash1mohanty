@@ -68,8 +68,8 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sreyash1mohanty&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sreyash1mohanty&show_icons=true&locale=en" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreyash1mohanty&" alt="GitHub Streak" />
-</p>
+</p> -->
 
