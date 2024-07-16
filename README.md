@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Sreyash</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
 
-<img align="right" alt="Coding" width="400" height="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?size=338&ext=jpg&ga=GA1.1.2008272138.1720915200&semt=ais_user">
-
 - 🌱 I’m currently learning **React, AWS, MERN stack**
 - 📫 How to reach me **sreyashm11@gmail.com**
 
