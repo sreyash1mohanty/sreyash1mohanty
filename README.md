@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJJRH9H_LmEl29sW9AX6PRXoo6iorVgllRYg&s" alt="MasterHead" width="1000" height="200"/>
+
 
 <h1 align="center">Hi 👋, I'm Sreyash</h1>
 <h3 align="center">A passionate MERN developer from India</h3>
